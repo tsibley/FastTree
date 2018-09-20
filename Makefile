@@ -1,3 +1,5 @@
+SHELL = /bin/bash
+
 CC      = gcc
 CFLAGS  = -O3 -finline-functions -funroll-loops -Wall
 LDFLAGS = -lm
